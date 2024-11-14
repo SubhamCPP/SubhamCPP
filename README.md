@@ -20,7 +20,7 @@ I'm a passionate Data Scientist with experience in building models, optimizing a
 - **Data Visualization**: Plotly, Power BI, Tableau, Qlik 
 - **Development & Operations**: GIT, Docker, CI/CD
 
-## 🛠️ Projects
+## 🛠️ Professional Work
 - **Anomaly Detection on Employee Devices**: Built and deployed an anomaly detection model to monitor app crashes on workplace laptops using Databricks, PySpark, and Spark-NLP.
 - **Crop Suitability Modeling**: Leveraged CNNs and satellite data to predict crop yield and suitability as part of my thesis in precision agriculture.
 - **Digital Assets Management Platform (DAMP) Image Analytics Pipeline**: Led the end-to-end development of an image analytics pipeline, enhancing operational efficiency by 20% through FastAPI and advanced features like InceptionV3 classification, OCR, and geo-tagging for optimized inventory management.
